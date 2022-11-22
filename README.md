@@ -2,12 +2,6 @@
 
 ## Expected links :
 
-Github Pages web site :
-https://
-
-Git repo used for publication :
-https://
-
 Demo video :
 https://www.youtube.com/watch?v=LQsl5bQPWz0&ab_channel=Omarock
 
@@ -19,8 +13,6 @@ https://www.youtube.com/watch?v=LQsl5bQPWz0&ab_channel=Omarock
 > These loops constituted a compromise of the Gas Dos limit type's security. In order to prevent some functions from being called too early in the process, I also added some requirements to them.
 
 ### Documentation
-
-> The natspec standard has been applied to the smart contract source code.
 
 I've been able to generate a documentation directly from Remix to review the comliance of the format. This documentation can be checked here :
 
